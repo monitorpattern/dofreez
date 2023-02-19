@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://monitorpattern.github.io/dofreez'
 languageCode = 'fr-FR'
 title = 'Frederic et Zoé'
 theme = 'ananke'
