@@ -1,5 +1,5 @@
 staticDir = 'static'
-baseURL = '/dofreez'
+baseURL = '/dofreez/'
 languageCode = 'fr-fr'
 title = 'Frederic et Zoé'
 #theme = 'hugo-story'
