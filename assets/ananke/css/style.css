@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100vh;
+}
+
+main img {
+    width: auto;
+    height: auto;
+    border: 1px solid #1d496c;
+    padding: 10px;
+    margin: 10px;
+}
+
+main article {
+    flex: 1;
+    height: inherit;
+    overflow: auto;
+}

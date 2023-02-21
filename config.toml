@@ -1,5 +1,8 @@
 staticDir = 'static'
-baseURL = 'https://monitorpattern.github.io/dofreez'
+baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Frederic et Zoé'
+#theme = 'hugo-story'
 theme = 'ananke'
+[params]
+    custom_css = ['style.css']

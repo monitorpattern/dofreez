@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/pico"]
+	path = themes/pico
+	url = https://github.com/negrel/hugo-theme-pico
+[submodule "themes/story"]
+	path = themes/story
+	url = https://github.com/xaprb/story
