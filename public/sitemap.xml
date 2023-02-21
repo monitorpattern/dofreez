@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/dofreez/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/dofreez/posts/2023-02-15/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/posts/2023-02-15/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/dofreez/posts/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/posts/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/dofreez/posts/intro/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/posts/intro/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/dofreez/categories/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/categories/</loc>
   </url><url>
-    <loc>/dofreez/tags/</loc>
+    <loc>https://github.com/monitorpattern/dofreez/tags/</loc>
   </url>
 </urlset>

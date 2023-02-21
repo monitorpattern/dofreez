@@ -1,5 +1,9 @@
 staticDir = 'static'
+<<<<<<< HEAD
 baseURL = '/dofreez/'
+=======
+baseURL = 'https://github.com/monitorpattern/dofreez/'
+>>>>>>> 1727ff9 (set github page as baseURL)
 languageCode = 'fr-fr'
 title = 'Frederic et Zoé'
 #theme = 'hugo-story'
