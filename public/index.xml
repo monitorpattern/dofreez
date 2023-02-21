@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frederic et Zoé</title>
-    <link>https://github.com/monitorpattern/dofreez/</link>
+    <link>https://monitorpattern.github.io/dofreez/</link>
     <description>Recent content on Frederic et Zoé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Feb 2023 16:35:15 +0100</lastBuildDate><atom:link href="https://github.com/monitorpattern/dofreez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 16:35:15 +0100</lastBuildDate><atom:link href="https://monitorpattern.github.io/dofreez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;épingle</title>
-      <link>https://github.com/monitorpattern/dofreez/posts/2023-02-15/</link>
+      <link>https://monitorpattern.github.io/dofreez/posts/2023-02-15/</link>
       <pubDate>Wed, 15 Feb 2023 16:35:15 +0100</pubDate>
       
-      <guid>https://github.com/monitorpattern/dofreez/posts/2023-02-15/</guid>
+      <guid>https://monitorpattern.github.io/dofreez/posts/2023-02-15/</guid>
       <description>Problème : Soit une épingle E,
 et un ange A.
 Posons par hypothèse l’ange A sur la tête de l’épingle E.
@@ -30,10 +30,10 @@ J’ai bien quelques dizaines d’années devant moi ?</description>
     
     <item>
       <title>Who are we</title>
-      <link>https://github.com/monitorpattern/dofreez/posts/intro/</link>
+      <link>https://monitorpattern.github.io/dofreez/posts/intro/</link>
       <pubDate>Wed, 15 Feb 2023 16:35:15 +0100</pubDate>
       
-      <guid>https://github.com/monitorpattern/dofreez/posts/intro/</guid>
+      <guid>https://monitorpattern.github.io/dofreez/posts/intro/</guid>
       <description>Nous sommes Frederic et Zoé.</description>
     </item>
     
