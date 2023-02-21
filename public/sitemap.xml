@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/dofreez/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/posts/2023-02-15/</loc>
+    <loc>/dofreez/posts/2023-02-15/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/dofreez/posts/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/posts/intro/</loc>
+    <loc>/dofreez/posts/intro/</loc>
     <lastmod>2023-02-15T16:35:15+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/dofreez/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/dofreez/tags/</loc>
   </url>
 </urlset>
