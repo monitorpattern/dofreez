@@ -1,19 +1,47 @@
 main {
     display: flex;
-    flex-flow: row nowrap;
-    height: 100vh;
+    flex-flow: column nowrap;
+    height: 80vh;  /* vh = view height */
 }
 
 main img {
     width: auto;
     height: auto;
-    border: 1px solid #1d496c;
-    padding: 10px;
-    margin: 10px;
 }
 
 main article {
     flex: 1;
     height: inherit;
     overflow: auto;
+}
+
+
+.title-block {
+    display: flex;
+    margin-left: auto;
+    width: 50vw;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    height: inherit;
+    gap: 20px;
+}
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.img {
+    flex: 1;
+}
+
+.scrollable-text {
+    flex: 1;
+    height: 100%;
+    overflow: scroll;
 }
