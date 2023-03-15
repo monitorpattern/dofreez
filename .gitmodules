@@ -4,6 +4,3 @@
 [submodule "themes/pico"]
 	path = themes/pico
 	url = https://github.com/negrel/hugo-theme-pico
-[submodule "themes/story"]
-	path = themes/story
-	url = https://github.com/xaprb/story
