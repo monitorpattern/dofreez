@@ -5,7 +5,7 @@ $ git submodule init
 $ git submodule update
 ```
 
-À chaque fois pour travailler en local :
+À chaque fois, pour travailler en local :
 ```
 $ hugo
 $ hugo server -D
